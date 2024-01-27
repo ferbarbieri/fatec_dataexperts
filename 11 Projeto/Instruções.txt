@@ -1,0 +1,17 @@
+Projeto - Data Experts:
+
+DATASET:
+https://insights.stackoverflow.com/survey
+
+Resultado Pesquisa:
+https://survey.stackoverflow.co/2023
+
+
+Tarefas:
+1-Respondaas seguintes perguntas em um Notebook Python:
+  A-Qual país possui os melhores salários?
+  B-Em media, qual a diferença de salário entre Home Office, Presencial e Híbrido?
+  C-Qual a relação entre Salário e Educação?
+  D-Com base nesse dataset, crie e responda mais duas perguntas a sua escolha.
+
+2-Crie uma Dashboard no PowerBI contendo as informações, gráficos, métricas, etc. mais relevantes com base nesse dataset.
